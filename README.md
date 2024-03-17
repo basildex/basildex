@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @basildex
-- 👀 I’m interested in anything C++, Javascript & Typescript
+- 👀 I’m interested in anything C++ ≡ C#, Javascript & Typescript
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on projects/ideas that improve the world.
 - 📫 How to reach me [@ilensb on Twitter](https://twitter.com/IlensB)
