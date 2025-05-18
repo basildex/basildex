@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @basildex
-- 👀 I’m interested in anything C++ ≡ C#, Javascript ≡ Typescript, Python
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in anything C++ ≡ Rust, Java ≡ C#, Javascript ≡ Typescript, Python & DevSecOps
 - 💞️ I’m looking to collaborate on projects/ideas that improve the world.
 - 📫 How to reach me [@ilensb on Twitter](https://twitter.com/IlensB)
 - 😄 Pronouns: He, Him, Mr
